@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383095286746",
+    "project_id": "yt-e-commerce-app",
+    "storage_bucket": "yt-e-commerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383095286746:android:c93b9a1b8766dd98912ee3",
+        "android_client_info": {
+          "package_name": "com.example.yt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383095286746-cosi8sjsq76fi6f3op6gs7fre8ume7h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1xDsq2WxgLmUp_rDnHyaSh7f_YeI9Ioc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383095286746-cosi8sjsq76fi6f3op6gs7fre8ume7h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
